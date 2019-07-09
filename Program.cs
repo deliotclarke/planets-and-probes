@@ -14,7 +14,8 @@ namespace PlanetsAndProbes
                 new KeyValuePair<string, string>("Mercury", "Messenger"),
                 new KeyValuePair<string, string>("Venus", "Sputnik 19"),
                 new KeyValuePair<string, string>("Venus", "Mariner 2"),
-                new KeyValuePair<string, string>("Venus", "Zond 1")
+                new KeyValuePair<string, string>("Venus", "Zond 1"),
+                new KeyValuePair<string, string>("Neptune", "Fake Probe 23"),
             };
 
             // Iterate planets
