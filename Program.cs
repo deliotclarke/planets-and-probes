@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace planets_and_probes
+namespace PlanetsAndProbes
 {
     class Program
     {
